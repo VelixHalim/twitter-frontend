@@ -1,0 +1,67 @@
+.modal-content{
+    background-color: black !important;
+    border-radius: 1em;
+    color: white;
+}
+
+.x-up{
+    color: white !important;
+    margin-left: 1em;
+    font-size: 1.5em;
+}
+
+.arrow-up{
+    color: white !important;
+    margin-left: 0.5em;
+    font-size: 1.5em;
+}
+
+.step{
+    /* text-align: center;
+    display: inline-block; */
+    margin-left: 2em;
+}
+.step2{
+    /* text-align: center;
+    display: inline-block; */
+    margin-left: 1em;
+}
+
+.input-1-sign{
+    width: 350px;
+    font-weight: 600;
+    border-radius: 30px;
+    margin-top: 1.5em;
+    margin-left: 3em;
+    background-color: black !important;
+}
+
+.secondary{
+    text-align: right !important;
+    color: rgb(29,155,240) ;
+    font-size: 11px;
+    margin-top: 3px;
+}
+
+.btn-2-sign{
+    width: 350px;
+    font-weight: 600;
+    border-radius: 30px;
+    margin-top: 1.5em;
+}
+.btn-2-sign-2{
+    width: 400px;
+    height: 50px;
+    font-weight: 600;
+    border-radius: 30px;
+    margin-top: 1.5em;
+}
+.btn-2-sign-3{
+    width: 400px;
+    height: 50px;
+    font-weight: 600;
+    border-radius: 30px;
+    margin-bottom: 2em;
+    background-color: rgb(29,155,240);
+    margin-left: 3em;
+}

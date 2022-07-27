@@ -1,0 +1,78 @@
+.modal-content{
+    background-color: black !important;
+    border-radius: 1em;
+    color: white;
+}
+
+.x{
+    color: white !important;
+    margin-left: 1em;
+    font-size: 1.5em;
+}
+
+.icon{
+    text-align: center;
+    display: inline-block;
+    margin-left: 12em;
+}
+
+.modal-body{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.text-sign{
+    font-size: 24px;
+    font-weight: 500;
+}
+.text-dont{
+    font-size: 12px;
+    color: gray;
+    margin-top: 3em;
+}
+
+.btn-1{
+    width: 300px;
+    font-weight: 600;
+    border-radius: 30px;
+    margin-top: 2em;
+}
+.btn-2{
+    width: 300px;
+    font-weight: 600;
+    border-radius: 30px;
+    margin-top: 1.5em;
+}
+
+.signin-or-modal{
+    display: flex;
+    align-items: center;
+    text-align: center !important;
+    margin-top: 10px;
+}
+
+.sign-line-modal{
+    height: 0.5px;
+    background-color: rgb(79,79,79);
+    width: 135px;
+}
+
+.sing-in-email-modal{
+    margin-left: 5px;
+    margin-right: 5px;
+    font-weight: 300;
+}
+
+.input-1{
+    width: 300px;
+    font-weight: 600;
+    border-radius: 30px;
+    margin-top: 1.5em;
+    margin-left: 5em;
+    background-color: black !important;
+}
+
+.form-control{
+    background-color: black;
+}

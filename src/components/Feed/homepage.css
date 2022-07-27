@@ -1,0 +1,59 @@
+.start-home{
+    height: calc(100vh-50px);
+    display: flex;
+}
+
+.container{
+    width: 50%;
+    max-width: 50%;
+    display: flex;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+
+body{
+    background-color: black;
+}
+
+.tweet{
+    background-color: rgb(29,155,240) !important;
+    border-radius: 3.5em;
+    height: 3.5em;
+    width: 3.5em;
+}
+.log{
+    background-color: gray;
+    border-radius: 3.5em;
+    height: 3.5em;
+    width: 3.5em;
+    margin-top: 5em;
+}
+
+.feed{
+    color: white;
+    border-left: solid 1px gray;
+    border-right: solid 1px gray;
+    /* width: 50em; */
+    /* margin-left: 2em; */
+    width: 50em;
+}
+
+p {
+    word-break: break-all;
+    white-space: normal;
+}
+
+.button-1{
+    border-radius: 2em;
+    width: 2em;
+    height: 2em;
+    border: 0;
+    background-color:black ;
+    margin-left: auto;
+}
+
+/* .btn-secondary{
+    background-color: black;
+    border-color: black;
+} */

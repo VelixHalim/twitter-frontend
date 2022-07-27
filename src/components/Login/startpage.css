@@ -1,0 +1,118 @@
+.start{
+    height: calc(100vh-50px);
+    display: flex;
+}
+
+.container-l{
+    max-width: 50%;
+    background-image: url("../../assets/backgroud.png");
+    width: 50%;
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.container-r{
+    width: 50%;
+    max-width: 50%;
+    display: flex;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+
+.icon-r{
+    padding: 30px;
+}
+
+h1{
+    font-size: 64px;
+    font-weight: 900;
+    margin-top: 50px;
+}
+
+h2{
+    font-size: 32px;
+    margin-top: 40px;
+    font-weight: 900;
+}
+
+.btn-1{
+    width: 300px;
+    font-weight: 600;
+    border-radius: 30px;
+}
+.btn-2{
+    width: 300px;
+    font-weight: 600;
+    border-radius: 30px;
+    margin-top: 10px;
+}
+.btn-3{
+    width: 300px;
+    font-weight: 600;
+    border-radius: 30px;
+    margin-top: 10px;
+    background-color: rgb(29,155,240) !important;
+}
+
+.btn-4{
+    width: 300px;
+    font-weight: 600;
+    border-radius: 30px;
+    margin-top: 10px;
+    color: rgb(29,155,240) ;
+    background-color: black;
+}
+
+.signup{
+    font-weight: 900 !important;
+    margin-top: 30px;
+}
+
+.signin-or{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.sign-line{
+    height: 0.5px;
+    background-color: rgb(79,79,79);
+    width: 135px;
+}
+
+.sing-in-email{
+    margin-left: 5px;
+    margin-right: 5px;
+    font-weight: 300;
+}
+
+.term{
+    font-weight: 200;
+    color: gray;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.question{
+    margin-top: 30px;
+}
+
+.footer{
+    height: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: black;
+    color: gray;
+    font-size: 10px;
+    justify-content: center;
+    padding-top: 15px;
+}
+
+.link{
+    margin-left: 3px;
+    margin-right: 3px;
+    color: gray !important;
+}
